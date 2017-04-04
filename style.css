@@ -1,0 +1,40 @@
+.inl-block {
+	display: inline-block;
+}
+
+.header__nav {
+	margin-left: 10%;
+}
+
+.nav__nav-list li {
+	float: left;
+	list-style: none;
+	padding: 7px;
+}
+
+.logo {
+	border: 1px solid red;
+	width: 130px;
+}
+
+.header__logo {
+	margin-right: 10%;
+	float: right;
+}
+
+.content__logo {
+	margin-top: 5%;
+}
+
+.footer {
+	width: 100%;
+}
+
+.footer__nav {
+	float: right;
+}
+
+.footer .nav__nav-list li {
+	list-style-type: disc;
+	font-size: 12px;
+}
